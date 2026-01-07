@@ -40,7 +40,7 @@ data_fetcher.ipynb
 outputs/
 ├── best_model.pth
 └── final_predictions.csv
-
+```
 ### 4 Environment Setup
 
 #### 4.1 Install Dependencies
